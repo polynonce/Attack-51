@@ -52,7 +52,13 @@
 
 
 
-<p class="has-text-align-center"><iframe width="560" height="315" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/mr0r0Yoe7QU.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
+---
+
+
+* VIDEO: https://youtu.be/mr0r0Yoe7QU
+
+
+---
 
 
 
