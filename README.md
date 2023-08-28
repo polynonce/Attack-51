@@ -7,47 +7,6 @@
 </form>                            </div>
                         </div>
                                               <a href="https://polynonce.ru/attack-51/#" target="_blank" class="btn-bell btn-theme mx-2"><i class="fa fa-bell"></i></a>
-                                            
-                    </div>
-                    <!-- /Right nav -->
-         
-          
-                  <div class="collapse navbar-collapse" id="navbar-wp">
-                    <div class="d-md-block">
-                  <ul id="menu-menu1" class="nav navbar-nav mr-auto" data-smartmenus-id="16932433952881245"><li class="active home"><a class="homebtn" href="https://polynonce.ru/"><span class="fas fa-home"></span></a></li><li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-107 dropdown"><a class="nav-link has-submenu" title="Publications:" href="https://polynonce.ru/publications/" id="sm-16932433952881245-1" aria-haspopup="true" aria-controls="sm-16932433952881245-2" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications:</font></font><span class="sub-arrow"></span></a>
-<ul role="group" class=" dropdown-menu" id="sm-16932433952881245-2" aria-hidden="true" aria-labelledby="sm-16932433952881245-1" aria-expanded="false">
-	<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-237"><a class="dropdown-item" title="Как биткоин кошелек с мультиподписью Copay подвергла своих пользователей угрозе" href="https://polynonce.ru/sighash-single-attack/">Как биткоин кошелек с мультиподписью Copay подвергла своих пользователей угрозе</a></li>
-	<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-238"><a class="dropdown-item" title="Как сквозное шифрование поддерживает конфиденциальность и в чем разница между E2EE и TLS?" href="https://polynonce.ru/transport-layer-security/">Как сквозное шифрование поддерживает конфиденциальность и в чем разница между E2EE и TLS?</a></li>
-	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-108"><a class="dropdown-item" title="Как установить «SageMath» на облачный виртуальный сервер «Fedora»" href="https://polynonce.ru/install-sagemath-on-fedora/">Как установить «SageMath» на облачный виртуальный сервер «Fedora»</a></li>
-</ul>
-</li>
-<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a class="nav-link" title="GitHub" href="https://polynonce.ru/github/">GitHub</a></li>
-<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a class="nav-link" title="YouTube" href="https://polynonce.ru/youtube/">YouTube</a></li>
-<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a class="nav-link" title="Telegram" href="https://polynonce.ru/telegram/">Telegram</a></li>
-<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a class="nav-link" title="Contact" href="https://polynonce.ru/contact/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact</font></font></a></li>
-</ul>                        </div>      
-                    </div>
-
-                    <!-- Right nav -->
-                    <div class="desk-header d-lg-flex pl-3 ml-auto my-2 my-lg-0 position-relative align-items-center">
-                        <!-- /navbar-toggle -->
-                                                <div class="dropdown show mg-search-box pr-2">
-                            
-
-                            <a class="dropdown-toggle msearch ml-auto" href="https://polynonce.ru/attack-51/#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                               <i class="fas fa-search"></i>
-                            </a>
-
-                            <div class="dropdown-menu searchinner" aria-labelledby="dropdownMenuLink">
-                                <form role="search" method="get" id="searchform" action="https://polynonce.ru/">
-  <div class="input-group">
-    <input type="search" class="form-control" placeholder="Поиск" value="" name="s">
-    <span class="input-group-btn btn-default">
-    <button type="submit" class="btn"> <i class="fas fa-search"></i> </button>
-    </span> </div>
-</form>                            </div>
-                        </div>
-                                              <a href="https://polynonce.ru/attack-51/#" target="_blank" class="btn-bell btn-theme mx-2"><i class="fa fa-bell"></i></a>
                                         </div>
                     <!-- /Right nav -->
           </div>
@@ -75,7 +34,7 @@
                   51% Attack: Cryptocurrency Vulnerability Revealed</font></font></a>
                 </h1>
                                 <div class="media mg-info-author-block"> 
-                                    <a class="mg-author-pic" href="https://polynonce.ru/author/polynonce/"> <img alt="" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/92eca8f874777c40d1e4256ef5d5cf7e(2).png" srcset="https://secure.gravatar.com/avatar/92eca8f874777c40d1e4256ef5d5cf7e?s=300&amp;d=wp_user_avatar&amp;r=g 2x" class="avatar avatar-150 photo" height="150" width="150" loading="lazy" decoding="async"> </a>
+                                    <a class="mg-author-pic" href="https://polynonce.ru/author/polynonce/"> <img alt="" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/92eca8f874777c40d1e4256ef5d5cf7e(2).png" srcset="https://secure.gravatar.com/avatar/92eca8f874777c40d1e4256ef5d5cf7e?s=300&amp;d=wp_user_avatar&amp;r=g 2x" class="avatar avatar-150 photo" height="150" width="150" loading="lazy" decoding="async"> </a>
                                     <div class="media-body">
                                         <h4 class="media-heading"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">From</font></font></span><a href="https://polynonce.ru/author/polynonce/"></a></h4>
                                         <span class="mg-blog-date"><i class="fas fa-clock"></i> 
@@ -85,7 +44,7 @@
                             </div>
                             <article class="small single">
                 
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="688" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/image-2-1024x688.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-276" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-2-1024x688.png 1024w, https://polynonce.ru/wp-content/uploads/2023/08/image-2-300x201.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-2-768x516.png 768w, https://polynonce.ru/wp-content/uploads/2023/08/image-2.png 1105w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="688" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/image-2-1024x688.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-276" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-2-1024x688.png 1024w, https://polynonce.ru/wp-content/uploads/2023/08/image-2-300x201.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-2-768x516.png 768w, https://polynonce.ru/wp-content/uploads/2023/08/image-2.png 1105w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -93,7 +52,7 @@
 
 
 
-<p class="has-text-align-center"><iframe width="560" height="315" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/mr0r0Yoe7QU.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
+<p class="has-text-align-center"><iframe width="560" height="315" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/mr0r0Yoe7QU.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
 
 
 
@@ -101,7 +60,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1015" height="750" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/image-5.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-281" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-5.png 1015w, https://polynonce.ru/wp-content/uploads/2023/08/image-5-300x222.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-5-768x567.png 768w" sizes="(max-width: 1015px) 100vw, 1015px"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1015" height="750" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/image-5.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-281" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-5.png 1015w, https://polynonce.ru/wp-content/uploads/2023/08/image-5-300x222.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-5-768x567.png 768w" sizes="(max-width: 1015px) 100vw, 1015px"></figure>
 
 
 
@@ -113,7 +72,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="706" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/image-3-1024x706.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-277" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-3-1024x706.png 1024w, https://polynonce.ru/wp-content/uploads/2023/08/image-3-300x207.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-3-768x529.png 768w, https://polynonce.ru/wp-content/uploads/2023/08/image-3.png 1113w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="706" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/image-3-1024x706.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-277" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-3-1024x706.png 1024w, https://polynonce.ru/wp-content/uploads/2023/08/image-3-300x207.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-3-768x529.png 768w, https://polynonce.ru/wp-content/uploads/2023/08/image-3.png 1113w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -191,7 +150,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1012" height="740" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/image-4.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-278" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-4.png 1012w, https://polynonce.ru/wp-content/uploads/2023/08/image-4-300x219.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-4-768x562.png 768w" sizes="(max-width: 1012px) 100vw, 1012px"></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1012" height="740" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/image-4.png" alt="51% Attack: Cryptocurrency Vulnerability Revealed" class="wp-image-278" srcset="https://polynonce.ru/wp-content/uploads/2023/08/image-4.png 1012w, https://polynonce.ru/wp-content/uploads/2023/08/image-4-300x219.png 300w, https://polynonce.ru/wp-content/uploads/2023/08/image-4-768x562.png 768w" sizes="(max-width: 1012px) 100vw, 1012px"></figure>
 
 
 
@@ -265,7 +224,7 @@
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="./Attack 51% _ Cryptocurrency Vulnerability Revealed - _POLYNONCE__files/029-1024x576.png" alt="All Known Attacks: &quot;Blockchain Attack Vectors &amp; Vulnerabilities to Smart Contracts&quot;" class="wp-image-1481"></figure>
+<figure class="wp-block-image"><img decoding="async" src="./Attack%2051%25%20_%20Cryptocurrency%20Vulnerability%20Revealed%20-%20_POLYNONCE__files/029-1024x576.png" alt="All Known Attacks: &quot;Blockchain Attack Vectors &amp; Vulnerabilities to Smart Contracts&quot;" class="wp-image-1481"></figure>
 
 
 
